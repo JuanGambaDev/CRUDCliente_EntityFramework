@@ -1,0 +1,16 @@
+C:\Users\juansebastiangambaja\source\repos\CrudCliente2\CrudCliente2\bin\Debug\CrudCliente2.exe.config
+C:\Users\juansebastiangambaja\source\repos\CrudCliente2\CrudCliente2\bin\Debug\CrudCliente2.exe
+C:\Users\juansebastiangambaja\source\repos\CrudCliente2\CrudCliente2\bin\Debug\CrudCliente2.pdb
+C:\Users\juansebastiangambaja\source\repos\CrudCliente2\CrudCliente2\bin\Debug\EntityFramework.dll
+C:\Users\juansebastiangambaja\source\repos\CrudCliente2\CrudCliente2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\juansebastiangambaja\source\repos\CrudCliente2\CrudCliente2\bin\Debug\EntityFramework.xml
+C:\Users\juansebastiangambaja\source\repos\CrudCliente2\CrudCliente2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\juansebastiangambaja\source\repos\CrudCliente2\CrudCliente2\obj\Debug\CrudCliente2.csproj.AssemblyReference.cache
+C:\Users\juansebastiangambaja\source\repos\CrudCliente2\CrudCliente2\obj\Debug\CrudCliente2.Form1.resources
+C:\Users\juansebastiangambaja\source\repos\CrudCliente2\CrudCliente2\obj\Debug\CrudCliente2.Properties.Resources.resources
+C:\Users\juansebastiangambaja\source\repos\CrudCliente2\CrudCliente2\obj\Debug\CrudCliente2.csproj.GenerateResource.cache
+C:\Users\juansebastiangambaja\source\repos\CrudCliente2\CrudCliente2\obj\Debug\CrudCliente2.csproj.CoreCompileInputs.cache
+C:\Users\juansebastiangambaja\source\repos\CrudCliente2\CrudCliente2\obj\Debug\CrudCliente2.csproj.CopyComplete
+C:\Users\juansebastiangambaja\source\repos\CrudCliente2\CrudCliente2\obj\Debug\CrudCliente2.exe
+C:\Users\juansebastiangambaja\source\repos\CrudCliente2\CrudCliente2\obj\Debug\CrudCliente2.pdb
+C:\Users\juansebastiangambaja\source\repos\CrudCliente2\CrudCliente2\obj\Debug\CrudCliente2.Presentacion.FormTabla.resources
